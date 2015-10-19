@@ -1,0 +1,2 @@
+# logstash-pattern
+pattern logstash
